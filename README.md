@@ -19,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
