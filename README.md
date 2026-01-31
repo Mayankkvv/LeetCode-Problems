@@ -22,10 +22,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
