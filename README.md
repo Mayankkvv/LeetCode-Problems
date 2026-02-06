@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -52,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
