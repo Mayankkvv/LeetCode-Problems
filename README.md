@@ -61,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
