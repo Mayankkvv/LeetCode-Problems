@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0039-combination-sum) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
