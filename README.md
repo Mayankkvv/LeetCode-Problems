@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -87,5 +88,6 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
