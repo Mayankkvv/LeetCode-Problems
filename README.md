@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Backtracking
@@ -89,5 +90,6 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
