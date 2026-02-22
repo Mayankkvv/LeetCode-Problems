@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,4 +97,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
