@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -71,10 +72,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
@@ -119,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -145,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
