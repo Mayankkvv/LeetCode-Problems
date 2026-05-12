@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -321,5 +322,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
