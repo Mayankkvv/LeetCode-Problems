@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0657-robot-return-to-origin](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
