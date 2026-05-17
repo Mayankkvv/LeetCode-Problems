@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
