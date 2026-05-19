@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
