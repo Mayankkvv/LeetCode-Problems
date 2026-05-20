@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
