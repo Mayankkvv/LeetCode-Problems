@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
@@ -432,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
