@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -460,8 +464,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
