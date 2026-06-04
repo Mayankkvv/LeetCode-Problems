@@ -1,24 +1,39 @@
 class Solution {
-private:
-    int f(int i, int n, vector<int>& nums, int target, vector<vector<int>>& dp) {
-        if (target == 0)
-            return 0;
-        if (i == n)
-            return -1e9;
-        if(dp[i][target] != -1) return dp[i][target];
-        int pick = -1e9;
-        if (nums[i] <= target) {
-            pick = 1 + f(i + 1, n, nums, target - nums[i], dp);
-        }
-        int notpick = f(i + 1, n, nums, target, dp);
-        return dp[i][target] =  max(pick, notpick);
-    }
-
 public:
-    int lengthOfLongestSubsequence(vector<int>& nums, int target) {
+    int lengthOfLongestSubsequence(vector<int>& nums,
+                                   int target) {
+
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1));
-        int ans = f(0, n, nums, target,dp);
+
+        vector<vector<int>> dp(
+            n + 1,
+            vector<int>(target + 1, -1e9));
+
+        dp[n][0] = 0;
+
+        for(int i = n - 1; i >= 0; i--) {
+
+            for(int t = 0; t <= target; t++) {
+
+                int notpick =
+                    dp[i + 1][t];
+
+                int pick = -1e9;
+
+                if(nums[i] <= t) {
+
+                    pick =
+                        1 + dp[i + 1]
+                               [t - nums[i]];
+                }
+
+                dp[i][t] =
+                    max(pick, notpick);
+            }
+        }
+
+        int ans = dp[0][target];
+
         return (ans < 0) ? -1 : ans;
     }
 };
