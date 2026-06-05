@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Math
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
