@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Backtracking
 |  |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
