@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
