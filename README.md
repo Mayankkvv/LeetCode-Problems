@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Prefix Sum
 |  |
 | ------- |
