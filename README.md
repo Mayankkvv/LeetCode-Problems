@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0127-word-ladder) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0062-unique-paths) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
