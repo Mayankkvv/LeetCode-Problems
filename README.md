@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0312-burst-balloons) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
