@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
