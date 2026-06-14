@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0132-palindrome-partitioning-ii) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
