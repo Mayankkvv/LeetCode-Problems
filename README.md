@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
