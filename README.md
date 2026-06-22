@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0743-network-delay-time) |
