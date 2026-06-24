@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -526,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -600,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
