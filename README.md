@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Array
 |  |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
@@ -516,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
@@ -774,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
