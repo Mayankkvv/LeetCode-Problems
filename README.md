@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -609,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -736,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -784,4 +790,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
