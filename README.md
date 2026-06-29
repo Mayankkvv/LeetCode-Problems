@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
 |  |
 | ------- |
