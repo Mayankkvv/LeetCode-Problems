@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
