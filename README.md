@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 ## Dynamic Programming
 |  |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1046-last-stone-weight](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
