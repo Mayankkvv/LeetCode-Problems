@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
