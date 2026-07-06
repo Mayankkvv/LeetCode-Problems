@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -879,4 +880,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
