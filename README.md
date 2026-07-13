@@ -865,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
+| [1291-sequential-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1291-sequential-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
