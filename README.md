@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
