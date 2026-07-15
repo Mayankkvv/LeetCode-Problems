@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0148-sort-list) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
