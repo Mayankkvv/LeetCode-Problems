@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0069-sqrtx) |
