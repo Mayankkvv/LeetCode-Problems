@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Sorting
