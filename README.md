@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1987-number-of-unique-good-subsequences) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
