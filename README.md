@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Backtracking
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -896,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
