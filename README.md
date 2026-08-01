@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -528,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Binary Search
 |  |
@@ -918,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
