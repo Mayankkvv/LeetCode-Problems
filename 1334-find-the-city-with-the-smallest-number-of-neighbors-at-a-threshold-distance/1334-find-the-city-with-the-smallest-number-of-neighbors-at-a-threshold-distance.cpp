@@ -1,47 +1,47 @@
 class Solution {
 public:
-    int findTheCity(int n, vector<vector<int>>& edges, int d) {
-        vector<vector<int>> adjMat(n, vector<int>(n, 1e8));
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
 
-        for (int i = 0; i < n; i++) {
-            adjMat[i][i] = 0;
+        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+
+        for(auto it : edges){
+            dist[it[0]][it[1]] = it[2];
+            dist[it[1]][it[0]] = it[2];
         }
 
-        for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
-            int wt = edges[i][2];
+        for(int i = 0; i < n; i++)
+            dist[i][i] = 0;
 
-            adjMat[u][v] = wt;
-            adjMat[v][u] = wt;
-        }
+        for(int k = 0; k < n; k++){
+            for(int i = 0; i < n; i++){
+                for(int j = 0; j < n; j++){
 
-        for (int k = 0; k < n; k++) {
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (adjMat[i][k] == 1e8 || adjMat[k][j] == 1e8)
+                    if(dist[i][k] == INT_MAX || dist[k][j] == INT_MAX)
                         continue;
 
-                    adjMat[i][j] =
-                        min(adjMat[i][j], adjMat[i][k] + adjMat[k][j]);
+                    dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
                 }
             }
         }
 
-        int ans = INT_MAX;
-        int city = 0;
-        for (int i = 0; i < n; i++) {
+        int cntCity = n;
+        int cityNo = -1;
+
+        for(int i = 0; i < n; i++){
+
             int cnt = 0;
-            for (int j = 0; j < n; j++) {
-                if (adjMat[i][j] <= d)
+
+            for(int j = 0; j < n; j++){
+                if(dist[i][j] <= distanceThreshold)
                     cnt++;
             }
-            if (cnt <= ans) {
-                ans = cnt;
-                city = i;
+
+            if(cnt <= cntCity){
+                cntCity = cnt;
+                cityNo = i;
             }
         }
 
-        return city;
+        return cityNo;
     }
 };
