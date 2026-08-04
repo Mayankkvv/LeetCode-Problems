@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Backtracking
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
