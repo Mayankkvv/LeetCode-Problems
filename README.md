@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1987-number-of-unique-good-subsequences) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -609,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -993,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dijkstra's Algorithm
 |  |
