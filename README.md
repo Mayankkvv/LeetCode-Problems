@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -882,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0882-reachable-nodes-in-subdivided-graph) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1011,4 +1015,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
