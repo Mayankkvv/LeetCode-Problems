@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -973,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1037,8 +1040,18 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
