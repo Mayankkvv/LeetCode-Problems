@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
