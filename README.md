@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -979,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1291-sequential-digits) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1078,4 +1081,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
