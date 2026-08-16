@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1905-count-sub-islands](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -975,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
@@ -1008,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1073,15 +1078,18 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
