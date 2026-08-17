@@ -1,34 +1,28 @@
 class Solution {
 private:
-int f(vector<int>& arr, int mid, int m , int k){
-    int cnt = 0, noOfBookies = 0;
-    for(int i=0; i < arr.size(); i++){
-        if(arr[i] <= mid){
-            cnt++;
+    int f(vector<int>& bloomDay, int mid, int m , int k){
+        int cnt = 0, noOfBookies = 0;
+        for(int i = 0; i < bloomDay.size(); i++){
+            if(bloomDay[i] <= mid){
+                cnt++;
+            }else{
+                noOfBookies += cnt / k;
+                cnt = 0;
+            }
         }
-        else{
-            noOfBookies += cnt/k;   // changed
-            cnt = 0;
-        }
+        noOfBookies += cnt / k;
+        return noOfBookies;
     }
-    noOfBookies += (cnt/k);
-    return noOfBookies;
-}
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int mini = INT_MAX, maxi = INT_MIN, n = bloomDay.size();
-        if((long long)m * k > n) return -1;   // safer, optional but recommended
-        for(int i = 0; i < n; i++){
-            maxi = max(bloomDay[i] , maxi);
-            mini = min(bloomDay[i], mini);
-        }
-        int start = mini, end = maxi;
+        if((long long)m*k > bloomDay.size()) return -1;
+        int start = *min_element(bloomDay.begin(), bloomDay.end());
+        int end = *max_element(bloomDay.begin(), bloomDay.end());
         while(start <= end){
-            int mid = start + (end-start)/2;
-            if(f(bloomDay,mid, m,k) >= m){    // changed
-                end = mid -1;
-            }
-            else{
+            int mid = start + (end - start)/2;
+            if(f(bloomDay, mid, m, k) >= m){
+                end = mid - 1;
+            }else{
                 start = mid + 1;
             }
         }
