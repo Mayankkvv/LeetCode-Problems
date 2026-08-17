@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
 | ------- |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
