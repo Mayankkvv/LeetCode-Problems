@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0670-maximum-swap) |
+| [0754-reach-a-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0754-reach-a-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
