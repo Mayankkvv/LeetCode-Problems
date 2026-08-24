@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1872-stone-game-viii) |
@@ -823,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
