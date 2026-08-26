@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
