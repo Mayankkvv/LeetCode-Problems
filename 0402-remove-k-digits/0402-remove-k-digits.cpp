@@ -1,16 +1,11 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     string removeKdigits(string nums, int k) {
-        
         stack <char> st;
         for(int i=0; i < nums.size(); i++) {
             char digit = nums[i];
             while(!st.empty() && k > 0
                   && st.top() > digit) {
-
                 st.pop(); 
                 k--;
             }
@@ -38,4 +33,3 @@ public:
         return res;
     }
 };
-
