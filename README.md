@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
