@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Binary Search
 |  |
@@ -741,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
