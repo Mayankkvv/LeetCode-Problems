@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Binary Search
 |  |
 | ------- |
