@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Backtracking
 |  |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
