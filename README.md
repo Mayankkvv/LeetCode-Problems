@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
