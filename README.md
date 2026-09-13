@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0860-lemonade-change) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
