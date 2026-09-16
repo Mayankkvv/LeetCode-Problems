@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1905-count-sub-islands) |
+| [1929-concatenation-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
@@ -861,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
+| [1929-concatenation-of-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
