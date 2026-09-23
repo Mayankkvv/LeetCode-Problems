@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1706-where-will-the-ball-fall](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1706-where-will-the-ball-fall) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -697,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
@@ -907,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
