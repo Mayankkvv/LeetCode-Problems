@@ -19,8 +19,21 @@ public:
         for(int i = 0; i < n; i++){
             sum += nums[i];
         }
+        int target = sum/2;
         if(sum % 2 == 1) return false;
-        vector<vector<int>> dp(n+1, vector<int>(sum/2 + 1, -1));
-        return f(0, sum/2, nums,n,dp);
+        vector<vector<int>> dp(n+1, vector<int>(sum/2 + 1, 0));
+        for(int i = 0; i <= n; i++) dp[i][0] = 1;
+        //dp[n-1][target] = 1;
+        for(int i = n-1; i >= 0; i--){
+            for(int j = 1; j <= target; j++){
+                bool take = false;
+                if(nums[i] <= j){
+                take = dp[i+1][j-nums[i]];
+                }
+                bool nottake = dp[i+1][j];
+                dp[i][j] = take||nottake;
+            }
+        }
+        return dp[0][target];
     }
 };
