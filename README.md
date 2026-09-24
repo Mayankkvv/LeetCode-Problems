@@ -1248,4 +1248,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0808-soup-servings) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
