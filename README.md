@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1043-partition-array-for-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -1252,8 +1254,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
