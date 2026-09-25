@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -499,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
@@ -824,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1017,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1905-count-sub-islands) |
