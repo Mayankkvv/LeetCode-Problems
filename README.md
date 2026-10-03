@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0045-jump-game-ii) |
@@ -1297,6 +1300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
