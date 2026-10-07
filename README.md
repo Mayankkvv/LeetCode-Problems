@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -1027,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0542-01-matrix) |
