@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -769,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -1315,6 +1318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
