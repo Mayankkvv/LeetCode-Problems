@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2261-k-divisible-elements-subarrays) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -741,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
@@ -976,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
