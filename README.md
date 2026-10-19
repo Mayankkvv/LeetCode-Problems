@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
