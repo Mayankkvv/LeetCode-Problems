@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -937,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0845-longest-mountain-in-array](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
