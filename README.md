@@ -1381,4 +1381,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
