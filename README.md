@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
