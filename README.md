@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -1030,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
