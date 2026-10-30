@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Matrix
 |  |
@@ -1033,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -1231,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Ordered Set
 |  |
 | ------- |
