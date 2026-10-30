@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -851,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1009,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1022,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1449,4 +1454,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1114-print-in-order](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1226-the-dining-philosophers) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
