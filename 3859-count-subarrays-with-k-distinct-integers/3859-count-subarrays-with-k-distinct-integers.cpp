@@ -16,9 +16,10 @@ public:
                 }
                 leftK++;
             }
-            if(++freqM[nums[right]] == m) {
-                good++;
-            }
+            freqM[nums[right]]++;
+            if(freqM[nums[right]] == m) {
+                    good++;
+                }
             while(good >= k) {
                 if(freqM[nums[leftM]] == m) {
                     good--;
