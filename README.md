@@ -588,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1180,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3310-remove-methods-from-project](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1197,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Memoization
 |  |
 | ------- |
