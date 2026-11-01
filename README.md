@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0343-integer-break](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0754-reach-a-number](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0754-reach-a-number) |
