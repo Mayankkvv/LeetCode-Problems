@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
@@ -750,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3870-count-commas-in-range](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
