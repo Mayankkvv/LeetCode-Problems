@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -698,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -744,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -1068,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Heap (Priority Queue)
@@ -1097,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
