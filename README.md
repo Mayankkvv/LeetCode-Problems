@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -942,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -1059,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1088,6 +1092,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -1127,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -1328,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Game Theory
