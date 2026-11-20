@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -711,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -986,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2747-count-zero-request-servers](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3362-zero-array-transformation-iii](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3362-zero-array-transformation-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Mayankkvv/LeetCode-Problems/tree/master/3478-choose-k-elements-with-maximum-sum) |
