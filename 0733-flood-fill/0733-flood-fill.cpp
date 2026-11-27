@@ -1,54 +1,28 @@
 class Solution {
 private:
-    void dfs(int row, int col,
-             vector<vector<int>>& ans,
-             vector<vector<int>>& image,
-             int iniColor, int color) {
-
+    void dfs(int sr, int sc, int color, vector<vector<int>>& image) {
         int n = image.size();
         int m = image[0].size();
-
-        ans[row][col] = color;
-
-        // UP
-        if (row - 1 >= 0 &&
-            image[row - 1][col] == iniColor &&
-            ans[row - 1][col] != color) {
-
-            dfs(row - 1, col, ans, image, iniColor, color);
-        }
-
-        // RIGHT
-        if (col + 1 < m &&
-            image[row][col + 1] == iniColor &&
-            ans[row][col + 1] != color) {
-
-            dfs(row, col + 1, ans, image, iniColor, color);
-        }
-
-        // DOWN
-        if (row + 1 < n &&
-            image[row + 1][col] == iniColor &&
-            ans[row + 1][col] != color) {
-
-            dfs(row + 1, col, ans, image, iniColor, color);
-        }
-
-        // LEFT
-        if (col - 1 >= 0 &&
-            image[row][col - 1] == iniColor &&
-            ans[row][col - 1] != color) {
-
-            dfs(row, col - 1, ans, image, iniColor, color);
+        int oldCol = image[sr][sc];
+        image[sr][sc] = color;
+        int drow[4] = {-1, 0, +1, 0};
+        int dcol[4] = {0, +1, 0, -1};
+        for(int i = 0; i < 4; i++) {
+            int nrow = sr + drow[i];
+            int ncol = sc + dcol[i];
+            if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
+               image[nrow][ncol] == oldCol) {
+                dfs(nrow, ncol, color, image);
+            }
         }
     }
 
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image,
-                                  int sr, int sc, int color) {
-        int iniColor = image[sr][sc];
-        vector<vector<int>> ans = image;
-        dfs(sr, sc, ans, image, iniColor, color);
-        return ans;
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int n = image.size();
+        int m = image[0].size();
+        if(image[sr][sc] == color) return image;
+        dfs(sr, sc, color, image);
+        return image;
     }
 };
